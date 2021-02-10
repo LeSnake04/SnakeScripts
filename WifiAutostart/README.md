@@ -2,7 +2,7 @@
 
 ## What does this Script do?
 This Bash Script checks the Name of the current Wifi (enableling networking if needed) and Executes defined actions.
-
+___
 ## How to edit actions
 To edit the actions you have to edit the script:
 
