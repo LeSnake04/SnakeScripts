@@ -39,8 +39,9 @@ ____
 ## **Example of a configuration**
 ```bash
 "belkin54g")
-		nextcloud&
-		indicator-kdeconnect&
-		thunderbird&
-		signal-desktop --use-tray-icon --start-in-tray &
+	nextcloud&
+	indicator-kdeconnect&
+	thunderbird&
+	signal-desktop --use-tray-icon --start-in-tray &
+;;
 ```
