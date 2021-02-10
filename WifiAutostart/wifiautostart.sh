@@ -28,15 +28,8 @@ done
 echo "Found Wifi Connection:${WIFINAME}"
 notify-send $PROGNAME "Starting Actions for Wifi $WIFINAME ..."
 
-# Actions to perform
+# Actions to perform (Explanation at https://github.com/LeSnake04/SnakeScripts/blob/master/WifiAutostart/README.md)
 case $WIFINAME in 
-#	Example:
-#	"HomeWifiSSID" | "FriendsWifiSSID" ) # Wifi SSid to trigger actions (case sensitive)
-# 		# Programs to Start (Add '&'' at the end of each command)
-#		telegram-desktop&
-#		nextcloud&	
-#
-#
 	"") 
 		
 	;;
