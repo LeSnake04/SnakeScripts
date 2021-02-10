@@ -6,7 +6,7 @@ This Bash Script checks the Name of the current Wifi (enableling networking if n
 ## How to edit actions
 To edit the actions you have to edit the script:
 
-### 1. **Navigate to the `case` section at the bottom the**
+### 1. **Navigate to the `case` section at the bottom the Script**
 ### 2. **get the ssid of your wifi, if you don't already know it**
 
 To get the ssid of your current wifi, execute this command in a terminal:
