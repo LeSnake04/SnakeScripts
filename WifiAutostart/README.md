@@ -30,6 +30,7 @@ Finally add the applications you want to start. Don't forget to add a '&' at the
     telegram-desktop&
 ;;
 ```
+Close the section with an ';;'
 ### **5. Add the script to the Autostart of your Desktop**
 
 Don't forget to disable Autostarts of the applications you included in the scripts
