@@ -15,22 +15,28 @@ iw dev | grep ssid | sed -e 's/		ssid //g'
 ```
 ### 3. **Make a section in the `case` with the ssid of you network Connection**
 
-Then Make a statement with the I
+Then Make a statement with the ssid of the Wifi.
 ```bash
 "ssid" )
 ```
-You can even add a second ssid, where the same actions get performed
+You can even add multiple ssids, where the same actions get performed, speerated by an `|`
 ```bash
 "ssid" | "ssid2" )
 ```
 ### 4. **configure the actions**
-Finally add the applications you want to start. Don't forget to add a '&' at the end of each command
+Add the applications you want to start. Don't forget to add a '&' at the end of each command
+```bash
+"ssid" | "ssid2" )
+    telegram-desktop&
+```
+Finally Close the section with an `;;`
 ```bash
 "ssid" | "ssid2" )
     telegram-desktop&
 ;;
 ```
-Close the section with an ';;'
+
+Your Done! You can add as much sections as you want. If you have problems, please open an issue at https://github.com/LeSnake04/SnakeScripts/issues
 ### **5. Add the script to the Autostart of your Desktop**
 
 Don't forget to disable Autostarts of the applications you included in the scripts
