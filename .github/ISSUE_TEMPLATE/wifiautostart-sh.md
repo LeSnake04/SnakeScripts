@@ -1,9 +1,9 @@
 ---
 name: WifiAutostart.sh
-about: Support for WifiAutostart.sh
+about: I need help with / found a bug in WifiAutostart.sh
 title: "{WifiAutostart} Need help"
-labels: ''
-assignees: ''
+labels: WifiAutostart
+assignees: LeSnake04
 
 ---
 
@@ -12,7 +12,3 @@ assignees: ''
 ```
 
 ```
-
-
-
-*If You have a suggestion, Ignore the part above*
