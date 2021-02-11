@@ -35,11 +35,17 @@ Finally Close the section with an `;;`
     telegram-desktop&
 ;;
 ```
+### 5. **Test the Script**
+Execute the script in the Terminal.
 
-Your Done! You can add as much sections as you want. If you have problems, please open an issue at https://github.com/LeSnake04/SnakeScripts/issues
-### **5. Add the script to the Autostart of your Desktop**
+If you don't have permission to run the script, run `chmod +x WifiAutostart.sh` and try again.
 
-Don't forget to disable Autostarts of the applications you included in the scripts
+Your Done! You can add as much sections as you want. 
+If you have problems, please open an issue at https://github.com/LeSnake04/SnakeScripts/issues
+
+### **6. Add the script to the Autostart of your Desktop**
+
+Don't forget to disable Autostarts of the applications you included in the scripts to avoid problems.
 
 ____
 
