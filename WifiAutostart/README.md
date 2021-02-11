@@ -24,7 +24,7 @@ You can even add multiple ssids, where the same actions get performed, speerated
 "ssid" | "ssid2" )
 ```
 ### 4. **configure the actions**
-Add the applications you want to start. Don't forget to add a '&' at the end of each command
+Add the applications you want to start. Don't forget to add a `&` at the end of each command
 ```bash
 "ssid" | "ssid2" )
     telegram-desktop&
