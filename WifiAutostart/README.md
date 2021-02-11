@@ -41,7 +41,7 @@ Execute the script in the Terminal.
 If you don't have permission to run the script, run `chmod +x WifiAutostart.sh` and try again.
 
 Your Done! You can add as much sections as you want. 
-If you have problems, please open an issue at https://github.com/LeSnake04/SnakeScripts/issues
+If you have problems, please open an [issue](https://github.com/LeSnake04/SnakeScripts/issues/new?assignees=LeSnake04&labels=WifiAutostart&template=wifiautostart-sh.md&title=%7BWifiAutostart%7D+Need+help)
 
 ### **6. Add the script to the Autostart of your Desktop**
 
