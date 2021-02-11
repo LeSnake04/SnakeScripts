@@ -4,7 +4,7 @@
 This Bash Script checks the Name of the current Wifi (enableling networking if needed) and Executes defined actions.
 ___
 ## How to edit actions
-> To edit the actions you have to edit the script:
+To edit the actions you have to edit the script:
 
 ### 1. **Navigate to the `case` section at the bottom the Script**
 ### 2. **get the ssid of your wifi, if you don't already know it**
